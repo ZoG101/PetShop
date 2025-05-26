@@ -1,5 +1,6 @@
 # Projeto de Pet Shop
-A idéia é de um formulário de inscrição para um pet shop para treinar a criação de formulários em HTML, estilização em CSS e fetch e inserção de dados através de APIs utilizando JS para isso.
+A idéia é de um formulário de inscrição para um pet shop com a intenção de treinar a criação de formulários em HTML, estilização em CSS e fetch e inserção de dados através de APIs utilizando JS.
+O formulário foi feito durante as aulas da ALURA!
 
 ## Funcionalidades
 O cliente pode inserir seus dados nos campos de cadastro e clicar em "CADASTRAR" para finalizar o cadastro.
