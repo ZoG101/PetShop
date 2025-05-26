@@ -10,7 +10,7 @@ O formulário deve então:
 2. Verificar se os campos foram inseridos por completo;
 3. verificar se a data de nascimento demonstra uma pessoa maior de 18 anos;
 4. Se encontrado o endereço, através da API do VIACEP, quando o cliente digitar seu CEP, os campos de LOGRADOURO, CIDADE e ESTADO devem ser preechidos automaticamente; e
-5. Quando finalizado, limpar os campos.
+5. Quando finalizado, enviar para a página de sucesso.
 
 ## Deploy
 O deploy da página foi feito através do netlify. <a href="https://doguito-petshop.netlify.app/">Clique aqui</a> para ver o resultado!
